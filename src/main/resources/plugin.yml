@@ -1,0 +1,7 @@
+name: LDBanPhantom
+author: [ ConderFix ]
+description: Плагин который банит фантомов
+website: vk.com/conderfix
+version: '${project.version}'
+main: me.leddev.banphantom.Main
+api-version: '1.16'
